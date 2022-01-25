@@ -4,6 +4,8 @@ Library\Bee\artifacts\mvdfrm\Unity.AdaptivePerformance.Simulator.Editor.ref.dll_
 Library\Bee\artifacts\mvdfrm\Unity.AdaptivePerformance.Simulator.Extension.ref.dll_22683F5ADFEFA389.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.AdaptivePerformance.UI.Editor.ref.dll_2F75AB27266799CB.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.AdaptivePerformance.ref.dll_F07A6251CDFF0652.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Formats.Fbx.Editor.ref.dll_855D36C26019703F.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Formats.Fbx.Runtime.ref.dll_5CE066DA2D8E1A7C.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Mobile.AndroidLogcat.Editor.ref.dll_5ADD071D6D2A40EE.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Notifications.Android.ref.dll_205AF22F516A4D31.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Notifications.ref.dll_4F1B71478B3B90C0.mvfrm
